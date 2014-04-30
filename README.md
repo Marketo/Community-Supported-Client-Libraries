@@ -1,4 +1,4 @@
-Community-Supported-Client-Libraries
+Community Supported Client Libraries
 ====================================
 
 Client libraries can help you integrate with Marketo's API more quickly. Note that these client libraries have not been security tested by Marketo. If you develop a client library that you would like to open source and add to this page, please submit a pull request.  
