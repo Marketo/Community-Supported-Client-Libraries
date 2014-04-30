@@ -5,8 +5,7 @@ Client libraries can help you integrate with our API more quickly. Note that the
 
 ## Official Libraries
 
-SOAP Java Client:  
-* https://github.com/Marketo/SOAP-API-Java-Client
+SOAP Java Client: https://github.com/Marketo/SOAP-API-Java-Client
 
 ## Community Supported Client Libraries  
 
