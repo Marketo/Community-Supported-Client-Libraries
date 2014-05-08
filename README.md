@@ -7,6 +7,7 @@ Client libraries can help you integrate with Marketo's API more quickly. Note th
 
 * [Marketo SOAP APIs documentation](http://developers.marketo.com/documentation/soap/)
 * [SOAP Java Client](https://github.com/Marketo/SOAP-API-Java-Client)
+* [Ruby gem for Marketo REST API](https://github.com/jalemieux/mkto_rest)
 
 ## Community Supported Client Libraries  
 
