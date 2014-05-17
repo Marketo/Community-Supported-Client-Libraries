@@ -14,6 +14,7 @@ Note that these client libraries have not been security tested by Marketo. If yo
 
 * [Ruby gem for SOAP API developed by ClearFit](https://github.com/ClearFit/marketo-api-ruby)
 * [Ruby gem for SOAP API developed by Rapleaf](https://github.com/Rapleaf/marketo_gem)
+* [Ruby gem for SOAP API developed by David Santoso](https://github.com/davidsantoso/markety)
 * [Python client library for SOAP API developed by Segment.io](https://github.com/segmentio/marketo-python)
 * [Python client library for SOAP API developed by PunchTab](https://github.com/PunchTab/suds-marketo)
 * [PHP client library for SOAP API developed by Flickerbox](https://github.com/flickerbox/marketo)
