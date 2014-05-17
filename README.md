@@ -12,3 +12,5 @@ Client libraries can help you integrate with Marketo's API more quickly. Note th
 ## Community Supported Client Libraries  
 
 * [Ruby gem for Marketo SOAP API developed by ClearFit](https://github.com/ClearFit/marketo-api-ruby)
+* [Python client library for Marketo SOAP API developed by Segment.io](https://github.com/segmentio/marketo-python)
+
