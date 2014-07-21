@@ -19,7 +19,10 @@ Note that these client libraries have not been security tested by Marketo. If yo
 * [Python client library for SOAP API developed by PunchTab](https://github.com/PunchTab/suds-marketo)
 * [PHP client library for SOAP API developed by Flickerbox](https://github.com/flickerbox/marketo)
 
+## Example Integrations Developed by Community 
 
+* [Marketo/Pivotal Connector using C#](https://github.com/nightkiller/Marketo-Pivotal/tree/master/Marketo-Pivotal)
+* [Wordpress plugin for Marketo forms using PHP](https://github.com/wp-plugins/marketo)
 
 
 
