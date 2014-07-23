@@ -18,6 +18,7 @@ Note that these client libraries have not been security tested by Marketo. If yo
 * [Python client library for SOAP API developed by Segment.io](https://github.com/segmentio/marketo-python)
 * [Python client library for SOAP API developed by PunchTab](https://github.com/PunchTab/suds-marketo)
 * [PHP client library for SOAP API developed by Flickerbox](https://github.com/flickerbox/marketo)
+* [PHP client library for SOAP API developed by elcodedocle](https://github.com/elcodedocle/marketo-soap-api-php-client)
 
 ## Example Integrations Developed by Community 
 
