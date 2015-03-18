@@ -25,8 +25,6 @@ Note that these client libraries have not been security tested by Marketo. If yo
 
 ## Examples Developed by Community 
 
-* [Marketo/Pivotal Connector using C#](https://github.com/nightkiller/Marketo-Pivotal/tree/master/Marketo-Pivotal)
-* [Wordpress plugin for Marketo forms using PHP](https://github.com/wp-plugins/marketo)
 * [Google App Script for Google Sheet/Marketo integration](https://github.com/khalstvedt/mkto_google-spreadsheet)
 * [Drupal module for Marketo](https://github.com/MarketoMA/marketo_ma)
 * [Email Templates by Dropcam](https://github.com/dropcam/marketo-email-templates)
