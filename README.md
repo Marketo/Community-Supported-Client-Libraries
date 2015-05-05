@@ -7,7 +7,6 @@ Note that these client libraries have not been security tested by Marketo. If yo
 ## Official Libraries
 
 * [Java client library for SOAP API](https://github.com/Marketo/SOAP-API-Java-Client)
-* [Ruby gem for REST API](https://github.com/jalemieux/mkto_rest)
 * [C# sample code for SOAP API](https://github.com/Marketo/C-Sample-Code)
 
 ## Community Supported Client Libraries  
