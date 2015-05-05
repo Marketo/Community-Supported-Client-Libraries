@@ -1,7 +1,6 @@
-Community Supported Client Libraries
-====================================
+# Community Supported Client Libraries
 
-Client libraries can help you integrate with Marketo's API more quickly. For more information on Marketo's APIs, please visit the [Marketo developer site](http://developers.marketo.com/documentation/soap/).
+Client libraries can help you integrate with Marketo's API more quickly. For more information on Marketo's APIs, please visit the [Marketo developer site](http://developers.marketo.com/documentation/rest/).
 
 Note that these client libraries have not been security tested by Marketo. If you develop a client library that you would like to open source and add to this page, please submit a pull request.  
 
@@ -13,14 +12,22 @@ Note that these client libraries have not been security tested by Marketo. If yo
 
 ## Community Supported Client Libraries  
 
+### Ruby
+* [Ruby gem for REST API developed by István Karaszi](https://github.com/raszi/mrkt)
 * [Ruby gem for SOAP API developed by ClearFit](https://github.com/ClearFit/marketo-api-ruby)
 * [Ruby gem for SOAP API developed by Rapleaf](https://github.com/Rapleaf/marketo_gem)
 * [Ruby gem for SOAP API developed by David Santoso](https://github.com/davidsantoso/markety)
+
+### Python
 * [Python client library for SOAP API developed by Segment.io](https://github.com/segmentio/marketo-python)
 * [Python client library for SOAP API developed by PunchTab](https://github.com/PunchTab/suds-marketo)
+
+### PHP
+* [PHP client library for REST API developed by dchesterton](https://github.com/dchesterton/marketo-rest-api)
 * [PHP client library for SOAP API developed by Flickerbox](https://github.com/flickerbox/marketo)
 * [PHP client library for SOAP API developed by elcodedocle](https://github.com/elcodedocle/marketo-soap-api-php-client)
-* [PHP client library for REST API developed by dchesterton](https://github.com/dchesterton/marketo-rest-api)
+
+### Node
 * [Node.js client library for SOAP API developed by blairanderson](https://github.com/Datahero/node-marketo)
 
 ## Examples Developed by Community 
