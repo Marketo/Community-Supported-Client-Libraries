@@ -28,6 +28,7 @@ Note that these client libraries have not been security tested by Marketo. If yo
 
 ### Node
 * [Node.js client library for SOAP API developed by blairanderson](https://github.com/Datahero/node-marketo)
+* [Node.js client library for REST API developed by usermindinc](https://github.com/usermindinc/node-marketo)
 
 ### Java
 * [Java client library for Assets REST API developed by Smartling](https://github.com/Smartling/marketo-rest-sdk-java)
