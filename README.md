@@ -19,6 +19,7 @@ Note that these client libraries have not been security tested by Marketo. If yo
 
 ### Python
 * [Python client library for REST API developed by jswinarton](https://github.com/jswinarton/pymarketo)
+* [Python client library for REST API developed by Arunim Samat](https://github.com/asamat)
 * [Python client library for SOAP API developed by Segment.io](https://github.com/segmentio/marketo-python)
 * [Python client library for SOAP API developed by PunchTab](https://github.com/PunchTab/suds-marketo)
 
