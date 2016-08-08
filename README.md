@@ -26,7 +26,7 @@ Note that these client libraries have not been security tested by Marketo. If yo
 
 ### PHP
 * [PHP client library for REST API developed by dchesterton](https://github.com/dchesterton/marketo-rest-api)
-* [PHP client library for SOAP API developed by elcodedocle](https://github.com/elcodedocle/marketo-soap-api-php-client)
+* [PHP client library for SOAP API developed by codecrafts-dev](https://github.com/codecrafts-dev/marketo-soap-api-php-client)
 
 ### Node
 * [Node.js client library for SOAP API developed by blairanderson](https://github.com/Datahero/node-marketo)
