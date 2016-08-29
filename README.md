@@ -29,8 +29,8 @@ Note that these client libraries have not been security tested by Marketo. If yo
 * [PHP client library for SOAP API developed by codecrafts-dev](https://github.com/codecrafts-dev/marketo-soap-api-php-client)
 
 ### Node
-* [Node.js client library for SOAP API developed by blairanderson](https://github.com/Datahero/node-marketo)
 * [Node.js client library for REST API developed by usermindinc](https://github.com/usermindinc/node-marketo)
+* [Node.js client library for SOAP API developed by blairanderson](https://github.com/Datahero/node-marketo)
 
 ### Java
 * [Java client library for Assets REST API developed by Smartling](https://github.com/Smartling/marketo-rest-sdk-java)
@@ -39,7 +39,6 @@ Note that these client libraries have not been security tested by Marketo. If yo
 
 * [Google App Script for Google Sheet/Marketo integration](https://github.com/khalstvedt/mkto_google-spreadsheet)
 * [Drupal module for Marketo](https://github.com/MarketoMA/marketo_ma)
-* [Email Templates by Dropcam](https://github.com/dropcam/marketo-email-templates)
 
 
 
