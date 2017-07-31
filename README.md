@@ -34,6 +34,9 @@ Note that these client libraries have not been security tested by Marketo. If yo
 ### Java
 * [Java client library for Assets REST API developed by Smartling](https://github.com/Smartling/marketo-rest-sdk-java)
 
+### Go
+* [Go client library for REST API developed by SpeakData](https://github.com/SpeakData/minimarketo)
+
 ## Examples Developed by Community
 
 * [Google App Script for Google Sheet/Marketo integration](https://github.com/khalstvedt/mkto_google-spreadsheet)
